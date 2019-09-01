@@ -1,5 +1,6 @@
 <nav>
     <ul>
+        <a href="index.php"> Home Page
         <li>
             <a href="">Manage Catalogue</a>
             <ul>
